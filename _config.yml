@@ -12,7 +12,7 @@ timezone: landscape
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://web-hw.github.io
+url: https://web-hw.github.ioa
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
